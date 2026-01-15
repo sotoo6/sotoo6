@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👩‍💻  Lucía Soto Sánchez</h1>
+<h1 align="center">🌸  Lucía Soto Sánchez</h1>
 
 ###
 
@@ -18,7 +18,11 @@
 
 ###
 
-<p align="left">I'm a student at FIAP, currently pursuing a degree in Systems Analysis and Development. I am seeking to grow professionally in my areas of interest, which include Data Analysis, Artificial Intelligence (A.I), and Front-end development.<br>With this profile, my goal is not only to share my projects but also to document my progress and apply continuous improvement throughout my journey.</p>
+I’m training to become a **Junior Frontend / Full Stack Developer**, focused on building useful, well-structured, and high-performance web applications.
+
+👩‍💻 Second-year student in Web Application Development (DAW)  
+🌱 Learning new technologies such as Angular and deepening my knowledge of modern frontend development  
+🚀 Interested in frontend and full-stack roles
 
 ###
 
