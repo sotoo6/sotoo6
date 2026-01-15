@@ -58,6 +58,7 @@ I’m training to become a **Junior Frontend / Full Stack Developer**, focused o
 ### 🛠️ Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=white&labelColor=FF1F79&color=FF1F79'/></a>
 
 ---
 
