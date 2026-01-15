@@ -61,7 +61,7 @@ I’m training to become a **Junior Frontend / Full Stack Developer**, focused o
 
 ---
 
-# 🌍 Work Enviroment:
+<h2>🌍 Work Enviroment:</h2>
 
 ### 🧑‍💻 Personal IDE 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -72,7 +72,7 @@ I’m training to become a **Junior Frontend / Full Stack Developer**, focused o
 
 ---
 
-# 🔗 Socials:
+<h2>🔗 Socials:</h2>
 <a href='https://www.instagram.com/lu.soto.sanchez/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=white&labelColor=E1306C&color=E1306C'/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lu.soto.sanchez@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
 
