@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.redd.it/y8djj6h6l8041.gif" alt="window gif" width="1200">
-</p>
+<img src="./window.gif" alt="window gif" width="1200">
+
 
 ###
 
