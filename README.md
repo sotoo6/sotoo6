@@ -71,7 +71,7 @@ I’m training to become a **Junior Frontend / Full Stack Developer**, focused o
 ---
 
 <h2>🔗 Socials:</h2>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lu.soto.sanchez@gmail.com"><img alt='Instagram' src='https://img.shields.io/badge/Gmail-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=FF3434&color=FF3434'/></a>
+<a href='https://mail.google.com/mail/?view=cm&fs=1&to=lu.soto.sanchez@gmail.com' target="_blank"><img alt='GMAIL' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=CD1111&color=CD1111'/></a>
 <a href="https://www.linkedin.com/in/luc%C3%ADa-soto-s%C3%A1nchez-430506383/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 
 ###
