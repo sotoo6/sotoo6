@@ -1,83 +1,178 @@
 <img src="./window.gif" alt="window gif" width="1200">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Lucía%20Soto%20Sánchez&fontSize=40&fontColor=F4F8F2&animation=fadeIn&fontAlignY=36&color=0:5F7161,50:7C8C6B,100:A4B494" />
+</p>
 
-###
+<h3 align="center">🌿 Web Development Student • Junior Frontend / Full Stack Developer</h3>
 
-<h1 align="center">🌸  Lucía Soto Sánchez</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B7C9A8&center=true&vCenter=true&width=850&lines=Learning+Frontend+Development+step+by+step;Currently+exploring+Angular+and+modern+web+technologies;Building+clean%2C+responsive+and+user-friendly+interfaces+%F0%9F%8C%BF" alt="Typing SVG" />
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/DAW-2nd%20Year-7C8C6B?style=for-the-badge&labelColor=5F7161" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Full%20Stack-A4B494?style=for-the-badge&labelColor=6D7D68" />
+  <img src="https://img.shields.io/badge/Learning-Angular-B7C9A8?style=for-the-badge&labelColor=7C8C6B" />
+</p>
 
-<h4 align="center">Web Development</h4>
+<br>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C8C6B" width="100%"/>
+</p>
 
-<h2 align="left">Hey there 👋</h2>
+<h2 align="center">🌱 About Me</h2>
 
-###
+<p align="center">
+  I’m training to become a <strong>Junior Frontend / Full Stack Developer</strong>, focused on building
+  useful, well-structured and high-performance web applications.
+</p>
 
-I’m training to become a **Junior Frontend / Full Stack Developer**, focused on building useful, well-structured, and high-performance web applications.
+<p align="center">
+  👩‍💻 Second-year student in <strong>Web Application Development (DAW)</strong><br>
+  🌿 Learning technologies such as <strong>Angular</strong> and deepening my frontend knowledge<br>
+  ✨ Interested in <strong>frontend</strong> and <strong>full-stack</strong> roles
+</p>
 
-👩‍💻 Second-year student in Web Application Development (DAW)  
-🌱 Learning new technologies such as Angular and deepening my knowledge of modern frontend development  
-🚀 Interested in frontend and full-stack roles
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-6D7D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-8FA17E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modern%20Frontend-A4B494?style=flat-square" />
+  <img src="https://img.shields.io/badge/Always%20Learning-B7C9A8?style=flat-square" />
+</p>
 
-###
+<br>
 
-<h2 align="left">🛠 Tech Stack:</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A4B494" width="100%"/>
+</p>
 
-###
+<h2 align="center">🌾 Tech Stack</h2>
 
-### 📖 Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/LANGUAGES-A4B494?style=for-the-badge&labelColor=6D7D68" /><br><br>
+      <img src="https://skillicons.dev/icons?i=java,js,php&perline=3" />
+    </td>
+    <td align="center" width="34" valign="middle">
+      ❋
+    </td>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/FRONTEND-B7C9A8?style=for-the-badge&labelColor=7C8C6B" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=4" />
+    </td>
+  </tr>
 
-### 🎨 Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <tr>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/FRAMEWORKS-9FB38A?style=for-the-badge&labelColor=5F7161" /><br><br>
+      <img src="https://skillicons.dev/icons?i=laravel,angular,vue&perline=3" />
+    </td>
+    <td align="center" width="34" valign="middle">
+      ❋
+    </td>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/DATABASES-C7D7B5?style=for-the-badge&labelColor=7C8C6B" /><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql&perline=1" />
+    </td>
+  </tr>
 
-### 🗄️ Data Bases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  <tr>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/HOSTING%20%26%20DEPLOY-8FA17E?style=for-the-badge&labelColor=5F7161" /><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,vercel&perline=2" />
+    </td>
+    <td align="center" width="34" valign="middle">
+      ❋
+    </td>
+    <td align="center" width="240" valign="top">
+      <img src="https://img.shields.io/badge/TOOLS-D6C6B9?style=for-the-badge&labelColor=7C8C6B" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" />
+    </td>
+  </tr>
+</table>
 
-### 🧩 Frameworks:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<br>
 
-### 🖥️ Hosting:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C8C6B" width="100%"/>
+</p>
 
-### 🚀 Deploy:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<h2 align="center">🍃 What I Love Building</h2>
 
-### 🛠️ Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=white&labelColor=FF1F79&color=FF1F79'/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEAN%20INTERFACES-A4B494?style=for-the-badge&labelColor=5F7161" />
+  <img src="https://img.shields.io/badge/RESPONSIVE%20LAYOUTS-B7C9A8?style=for-the-badge&labelColor=6D7D68" />
+  <img src="https://img.shields.io/badge/MODERN%20UI-8FA17E?style=for-the-badge&labelColor=5F7161" />
+  <img src="https://img.shields.io/badge/STRUCTURED%20CODE-C7D7B5?style=for-the-badge&labelColor=7C8C6B" />
+</p>
 
----
+<p align="center">
+  ✿ Creating interfaces that feel clean, balanced and pleasant to use ✿
+</p>
 
-<h2>🌍 Work Enviroment:</h2>
+<br>
 
-### 🧑‍💻 Personal IDE 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=A4B494" width="100%"/>
+</p>
 
-### 💻 Operating Systems
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<h2 align="center">🌍 Work Environment</h2>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/PERSONAL%20IDE-7C8C6B?style=for-the-badge&labelColor=5F7161" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-A4B494?style=for-the-badge&labelColor=6D7D68" />
+</p>
 
-<h2>🔗 Socials:</h2>
-<a href='https://mail.google.com/mail/?view=cm&fs=1&to=lu.soto.sanchez@gmail.com' target="_blank"><img alt='GMAIL' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=CD1111&color=CD1111'/></a>
-<a href="https://www.linkedin.com/in/luc%C3%ADa-soto-s%C3%A1nchez-430506383/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&perline=1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" />
+</p>
 
-###
+<br>
 
-<div>
-  <img style="100%" weight="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C8C6B" width="100%"/>
+</p>
 
-###
+<h2 align="center">🌼 Socials</h2>
+
+<p align="center">
+  <a href="mailto:lu.soto.sanchez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C8C6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucía-soto-sánchez-430506383/">
+    <img src="https://img.shields.io/badge/LinkedIn-5F7161?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C8C6B" width="100%"/>
+</p>
+
+<h2 align="center">🌿 GitHub Activity</h2>
+
+<p align="center">
+  A small snapshot of my learning journey, projects and progress through GitHub.
+</p>
+
+<br>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sotoo6&show_icons=true&theme=transparent&hide_border=true&title_color=B7C9A8&icon_color=8FA17E&text_color=DCE5D1&ring_color=A4B494" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotoo6&layout=compact&theme=transparent&hide_border=true&title_color=B7C9A8&text_color=DCE5D1" />
+</p>
+
+<br>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5F7161,50:7C8C6B,100:A4B494" />
+</p>
