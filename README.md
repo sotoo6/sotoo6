@@ -54,7 +54,7 @@
   <tr>
     <td align="center" width="240" valign="top">
       <img src="https://img.shields.io/badge/LANGUAGES-A4B494?style=for-the-badge&labelColor=6D7D68" /><br><br>
-      <img src="https://skillicons.dev/icons?i=java,js,php&perline=3" />
+      <img src="https://skillicons.dev/icons?i=java,js,php,ts&perline=3" />
     </td>
     <td align="center" width="34" valign="middle">
       ❋
